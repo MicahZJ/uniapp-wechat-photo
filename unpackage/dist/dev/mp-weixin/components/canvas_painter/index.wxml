@@ -1,0 +1,1 @@
+<view id="wrapper" class="_div data-v-26b72aba"><painter vue-id="07e23738-1" customStyle="{{getCustomStyle}}" palette="{{getTemplate}}" dirty="{{true}}" data-event-opts="{{[['^imgOK',[['onImgOK']]]]}}" bind:imgOK="__e" class="data-v-26b72aba" bind:__l="__l"></painter></view>

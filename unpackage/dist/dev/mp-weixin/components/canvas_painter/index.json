@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "painter": "/static/painter/painter"
+  },
+  "component": true
+}

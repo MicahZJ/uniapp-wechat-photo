@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/painter_index/index",
+    "pages/painter_image/index",
+    "pages/logs/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap71.json"
+}
